@@ -1,0 +1,10 @@
+.\sounds\c0_p0458_s03.wav
+.\sounds\c1_p0002_s01.wav
+.\sounds\c2_p0044_s02.wav
+.\sounds\c3_p0018_s03.wav
+.\sounds\c4_p0063_s04.wav
+.\sounds\c5_p0026_s02.wav
+.\sounds\c6_p0076_s04.wav
+.\sounds\c7_p0018_s02.wav
+.\sounds\c8_p0030_s04.wav
+.\sounds\c9_p0635_s04.wav
